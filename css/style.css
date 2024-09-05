@@ -860,21 +860,24 @@ margin:0 56.5px;
     opacity: 0.3;
     transition: 1s;
 }
+/* ////////////////////////////////////////////////////////////////////section 11//////////////////////////////////////// */
 .last-container{
     width: 100%;
-    height: 300px;
+    height: 290px;
     background-color: rgb(79, 79, 79);
+    margin-top:20px;
 }
 .last-parent{
     width: 30%;
-    height: 100%;
+    height: 230px;
     margin: auto;
     text-align: center;
+
 }
-.last-parent img{
+.last-img{
     width: 175px;
-    height: 75px;
-    margin-top: 13%;
+    height: 80px;
+    margin-top: 50px;
 }
 .last-icon{
     width: 100%;
@@ -893,10 +896,11 @@ margin:0 56.5px;
     font-size: 20px;
 }
 .last-parent p{
-    color: rgb(139, 137, 137);
+    color: rgb(169, 166, 166);
     text-transform: uppercase;
     font-size: 13px;
-    margin-top: 10px;
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .last-icon i:hover{
     background-color:rgb(170, 45, 211);
